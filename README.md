@@ -1,6 +1,6 @@
-# 🚀 Avantika Bishnoi – Data Science Portfolio
+# 📊 Avantika Bishnoi – Data Analyst Portfolio
 
-Welcome to my personal portfolio website showcasing projects in Machine Learning, NLP, Computer Vision, Recommendation Systems, Explainable AI, and Data Analytics.
+Welcome to my personal portfolio website showcasing my work in Data Analysis, Business Intelligence, SQL, Dashboarding, and Data-Driven Decision Making.
 
 🌐 **Live Portfolio:** https://avantika029.github.io/avantika-portfolio/
 
@@ -8,15 +8,15 @@ Welcome to my personal portfolio website showcasing projects in Machine Learning
 
 ## 👩‍💻 About Me
 
-I am a Data Scientist with an M.Sc. in Data Science from Central University of Haryana. My work focuses on building end-to-end machine learning systems that solve real-world business and cybersecurity problems.
+I am a Data Analyst with an M.Sc. in Data Science from Central University of Haryana. I specialize in turning raw, messy data into clear insights and actionable dashboards that help businesses make better decisions.
 
 My interests include:
 
-* Machine Learning
-* Natural Language Processing (NLP)
-* Computer Vision
-* Recommendation Systems
-* Explainable AI (XAI)
+* Data Analysis & Reporting
+* Business Intelligence & Dashboarding
+* SQL & Database Querying
+* Data Cleaning & Preparation
+* Statistical Analysis
 * Data Visualization
 * Predictive Analytics
 
@@ -24,142 +24,114 @@ My interests include:
 
 ## 🛠 Tech Stack
 
-### Programming
-
-* Python
+### Programming & Querying
 * SQL
+* Python
 
-### Data Analysis & Visualization
-
+### Data Analysis & Manipulation
 * Pandas
 * NumPy
+* Excel
+
+### Data Visualization & BI Tools
+* Power BI
+* Tableau
 * Matplotlib
 * Seaborn
 * Plotly
-* Power BI
-* Tableau
 
-### Machine Learning & Deep Learning
-
+### Statistics & Modeling
+* Statistical Analysis
+* A/B Testing
 * Scikit-Learn
 * XGBoost
-* PyTorch
-* HuggingFace Transformers
-* NLP
-* Computer Vision
 
-### Deployment & MLOps
+### Explainable Analytics
+* SHAP
 
+### Deployment & Collaboration
 * Streamlit
 * FastAPI
-* HuggingFace Hub
 * Git
 * GitHub
-
-### Explainable AI
-
-* SHAP
-* Grad-CAM
 
 ---
 
 # Featured Projects
 
-## 🛡️ PhQure – Phishing & Quishing Detection System
-
-Multi-modal cybersecurity system developed as my M.Sc. dissertation.
+## 🛒 Q-Comm Market Basket Analysis
+Large-scale retail analytics and recommendation platform built on Instacart order data.
 
 ### Highlights
+* Processed 3.4M customer orders across 206K customers and 50K products
+* Association Rule Mining (Apriori, FP-Growth)
+* Customer Segmentation
+* 4-page executive Power BI dashboard
+* FastAPI-backed recommendation engine
 
-* URL Feature-Based Detection
-* DistilBERT URL Classification
-* QR Code Image Analysis
-* Meta-Learner Fusion Architecture
-* Explainable AI using SHAP and Grad-CAM
-
-### Results
-
-* Up to 99.97% AUC
-* Multi-branch ensemble architecture
-* Real-time deployment using Streamlit
-
-**Tech:** Python, PyTorch, DistilBERT, EfficientNet-B0, XGBoost, SHAP, HuggingFace
+**Tech:** Python, SQL, DuckDB, FastAPI, Power BI
 
 ---
 
 ## 📈 Indian Telecom Churn Analysis
-
-End-to-end churn prediction and retention analytics platform.
+End-to-end churn analysis and retention analytics dashboard for a telecom dataset of 10,000 subscribers.
 
 ### Highlights
-
-* Churn prediction modeling
-* Customer segmentation
-* SHAP explainability
-* Risk scoring dashboard
-* A/B testing framework
+* Churn prediction and risk scoring
+* Customer segmentation for targeted retention
+* SHAP-based explainability for business stakeholders
+* A/B testing framework to measure retention offer impact
 
 ### Business Impact
+* 45% relative churn reduction in the retention experiment
+* Identified low-performing discount segments through treatment-effect analysis
 
-* 45% churn reduction during retention experiment
-* Treatment-effect analysis identified ineffective discount segments
-
-**Tech:** Python, Scikit-Learn, XGBoost, SHAP, Streamlit, Plotly
+**Tech:** Python, SQL, Scikit-Learn, SHAP, Streamlit, Plotly
 
 ---
 
-## 🛒 Q-Comm Market Basket Analysis
-
-Large-scale recommendation system simulation using Instacart data.
+## 🛡️ PhQure – Phishing & Quishing Detection System
+Data-driven cybersecurity analytics system built as my M.Sc. dissertation, combining feature-based analysis with model explainability.
 
 ### Highlights
+* URL feature-based detection and analysis
+* QR code (quishing) image analysis
+* SHAP and Grad-CAM explainability for stakeholder-ready reporting
+* Real-time deployment via Streamlit
 
-* Processed 3.4M customer orders
-* Association Rule Mining
-* Customer Segmentation
-* Product Embeddings
-* Recommendation Engine
-* Power BI Dashboard
+### Results
+* Up to 99.97% AUC on detection tasks
 
-### Features
-
-* Apriori
-* FP-Growth
-* Product Recommendations
-* FastAPI Backend
-* Multi-page Business Dashboard
-
-**Tech:** Python, DuckDB, PyTorch, FastAPI, Streamlit, Power BI
+**Tech:** Python, XGBoost, SHAP, Streamlit
 
 ---
 
 ## 🎓 Education
 
 ### Central University of Haryana
-
 **Master of Science (Data Science)**
-
 * CGPA: 8.10/10
 * First Class with Distinction
 * Dissertation Grade: A+
 
 ### Sophia Girls' College, Ajmer
-
 **Bachelor of Science (Mathematics)**
-
 * CGPA: 8.92/10
 * Percentage: 83.87%
 
 ---
 
-## 🏆 Certification
+## 🏆 Certifications
+
+### Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+**Microsoft**
+* Credential ID: 94B8DE5D0B800F66
+* Certification number: 13D427-B36BBC
+* Earned: September 3, 2026 · Expires: September 4, 2027
 
 ### Certified in Cybersecurity (CC)
-
 **(ISC)²**
-
 Covered:
-
 * Security Principles
 * Incident Response
 * Network Security
@@ -191,7 +163,6 @@ avantika-portfolio/
 ---
 
 ### Built With
-
 * HTML5
 * CSS3
 * JavaScript
