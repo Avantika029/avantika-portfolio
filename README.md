@@ -143,7 +143,7 @@ Covered:
 
 * Portfolio: https://avantika029.github.io/avantika-portfolio/
 * GitHub: https://github.com/Avantika029
-* LinkedIn: https://www.linkedin.com/in/avantika-bishnoi-77464a247
+* LinkedIn: https://www.linkedin.com/in/avantika-77464a247/
 * Email: [bishnoiavantika1@gmail.com](mailto:bishnoiavantika1@gmail.com)
 
 ---
